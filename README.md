@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **PHP |Javascript | React | Node**
+- 🌱 I’m currently learning **PHP |Javascript | React | Node | C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Obelixlelul](https://github.com/Obelixlelul)
 
