@@ -2,7 +2,9 @@
 <h3 align="center">I'm studying to be a 1% better developer every day.</h3>
 <p align="center"><img width=50% src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif"></p>
 
+- :man_student: Bachelor of Software Engineering - Federal University of Rio Grande do Norte *(almost finishing)**
 
+- :mortar_board: Bachelor of Science and Technology - Federal University of Rio Grande do Norte **
 
 - 🌱 I’m currently learning **PHP |Javascript | React | Node | C++**
 
