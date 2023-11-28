@@ -6,7 +6,7 @@
 
 - :mortar_board: Bachelor of Science and Technology - Federal University of Rio Grande do Norte 
 
-- 🌱 I’m currently learning **PHP |Javascript | React | Node | C++**
+- 🌱 I code in **React | Next | Node | Nest | Javascript | C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Obelixlelul](https://github.com/Obelixlelul)
 
@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rafael-fortunato-16081993/](https://www.linkedin.com/in/rafael-fortunato-16081993/)
 
-- ⚡ Fun fact **i was a wedding photographer and i'm moving to be a fullstack developer**
+- ⚡ Fun fact **i was a wedding photographer and now i'm JS fullstack developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +22,7 @@
 <a href="https://discord.gg/#0036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0036" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">This is my stack, but I love learning new technologies:</h3>
+<h3 align="left">This is my stack, and I love learning new technologies:</h3>
 
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
